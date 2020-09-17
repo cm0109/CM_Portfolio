@@ -1,14 +1,13 @@
-<img src="images/CM_photo100.jpeg" width="100">
 
 ## About me 
 
-My background is in biotechnology engineering, and I have a MS in Microbiology & PhD in Biomedical Science. I have been involved in Bioinformatics Research for the past 6 years, mostly focussing on Human Microbiome sequencing data analysis.
+<img src="images/CM_photo100.jpeg" align="left" width="100"><p>My background is in biotechnology engineering, and I have a MS in Microbiology & PhD in Biomedical Science. I have been involved in Bioinformatics Research for the past 6 years, mostly focussing on Human Microbiome sequencing data analysis.</p>
 
 <br/>
 
 # Genomics Data Science Projects
 
-<br/><br/>
+<br/>
 
 ## Project 1: Analysis Related to Mukherjee Microbiome 2018 Publication
 See relevant publication [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6126016/)
