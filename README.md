@@ -1,4 +1,4 @@
-![](https://github.com/cm0109/CM_Portfolio/blob/master/images/IMG_2789%202.jpeg)
+<img src="images/CM_photo100.jpeg" width="100">
 
 ## About me 
 
