@@ -1,4 +1,4 @@
-![alt text](https://github.com/cm0109/CM_Portfolio/blob/master/images/IMG_2789%202.jpeg)
+![](https://github.com/cm0109/CM_Portfolio/blob/master/images/IMG_2789%202.jpeg)
 
 ## About me 
 
