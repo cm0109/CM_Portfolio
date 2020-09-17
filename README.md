@@ -1,4 +1,4 @@
-<img src="https://github.com/cm0109/CM_Portfolio/blob/master/images/IMG_2789%202.jpeg" width="100">
+![alt text](https://github.com/cm0109/CM_Portfolio/blob/master/images/IMG_2789%202.jpeg)<!-- .element height="20%" width="20%" -->
 
 ## About me 
 
