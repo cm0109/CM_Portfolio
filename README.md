@@ -1,6 +1,6 @@
 <img src="https://github.com/cm0109/CM_Portfolio/blob/master/images/IMG_2789%202.jpeg" width="100" height="100">
 
-## About me: 
+## About me 
 
 My background is in biotechnology engineering, and I have a MS in Microbiology & PhD in Biomedical Science. I have been involved in Bioinformatics Research for the past 6 years, mostly focussing on Human Microbiome sequencing data analysis.
 
