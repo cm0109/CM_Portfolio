@@ -2,8 +2,8 @@
 
 ### Platform: R
 
-### Technologies
-- Clustering
+### Statistical & Visualization Techniques Utilized:
+- Hierarchical Clustering
 - Linear Regression
 - Multidimensional Ordination
 
