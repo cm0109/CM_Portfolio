@@ -29,7 +29,7 @@ In this clinical microbiome study, microbial communities from dental plaque of f
 
 Novel high-resolution ISR sequencing technique combined with DADA2-based processing allowed resolution of individual species into multiple subspecies variants, and revealed highly personalized bacterial profiles for individual subjects.
 
-<img src="https://github.com/cm0109/ISR_manuscript/blob/master/ISR-MS-Demo_files/figure-markdown_github/unnamed-chunk-15-1.png">
+<img src="images/ISR_ms_NMDS.png">
 
 <br/>
 
@@ -37,7 +37,7 @@ In the Figure above, each subject is denoted by a different color, and each poin
 
 <br/>
 
-<img src="https://github.com/cm0109/ISR_manuscript/blob/master/ISR-MS-Demo_files/figure-markdown_github/unnamed-chunk-15-4.png">
+<img src="images/ISR_ms_hclust.png">
 
 Hierarchical Clustering Results for Oral Microbiome Samples collected from 5 subjects (different colors) over 6 time points through the year.
 
