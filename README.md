@@ -17,7 +17,9 @@ See relevant publication [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC61
 ### Statistical & Visualization Techniques Utilized:
 - Hierarchical Clustering
 - Linear Regression
+- Random Forest Classifier
 - Multidimensional Ordination
+- Non-parametric Multivariate Statistics
 
 ### [Analysis Highlight: Microbiome Potential in Forensics!](https://github.com/cm0109/ISR_manuscript/tree/master/ISR-MS-Demo_files/figure-markdown_github)
 
