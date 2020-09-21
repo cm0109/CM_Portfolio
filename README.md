@@ -23,13 +23,27 @@ See relevant publication [here.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC61
 
 In this clinical microbiome study, microbial communities from dental plaque of five adult subjects was tracked over a 1-year period. Both the bacterial 16S V1-V3 region and 16-23 Intergenic Spacer Region (ISR) were sequenced for each sample, for species & strain-level community profiling, respectively.
 
-<img src="images/ISR_ms_overview.png" align="center" width="400">
+<img src="images/ISR_ms_overview.png" align="center" width="600">
+
+<br/><br/>
 
 Novel high-resolution ISR sequencing technique combined with DADA2-based processing allowed resolution of individual species into multiple subspecies variants, and revealed highly personalized bacterial profiles for individual subjects.
 
 ![](https://github.com/cm0109/ISR_manuscript/blob/master/ISR-MS-Demo_files/figure-markdown_github/unnamed-chunk-15-1.png)
 
+<br/>
 
+In the Figure above, each subject is denoted by a different color, and each point in the Non-metric Multidimensional Analysis (nMDS) ordination denotes a single time point (~2 months apart) over the 1 year period of sampling. Ellipses represent the 95% confidence interval for each subject.
 
+<br/>
+
+![](https://github.com/cm0109/ISR_manuscript/blob/master/ISR-MS-Demo_files/figure-markdown_github/unnamed-chunk-15-4.png)
+
+Hierarchical Clustering Results for Oral Microbiome Samples collected from 5 subjects (different colors) over 6 time points through the year.
+
+These results Each subject had their own *Personalized* Oral Microbiota that remained stable (i.e. distinct from other subjects) over the 1 year study period.
+This robust & individualized microbiota definitely raises the possibility of using high-resolution human microbiome data for tracking individuals, for example in forensic studies. 
+
+For details of the code used to generate this data, please see the GitHub-friendly version of the RMarkdown available [here.](https://github.com/cm0109/ISR_manuscript/blob/master/ISR-MS-Demo.md)
 
 
