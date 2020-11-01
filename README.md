@@ -1,7 +1,7 @@
 
 ## About me 
 
-<img src="images/CM_photo100.jpeg" align="left" width="120" style="padding-right: 20px"> My background is in biotechnology engineering, and I have a MS in Microbiology & PhD in Biomedical Science. I have been involved in Bioinformatics Research for the past 6 years, mostly focussing on Human Microbiome sequencing data analysis.
+<img src="images/CM_photo100.jpeg" align="left" width="120" style="padding-right: 20px"> Hello! My name is Chiranjit Mukherjee, I go by "Ran". My background is in biotechnology engineering, and I have a MS in Microbiology & PhD in Biomedical Science. I have been involved in Bioinformatics Research for the past 6 years, mostly focussing on Human Microbiome sequencing data analysis.
 
 <br/><br/>
 
